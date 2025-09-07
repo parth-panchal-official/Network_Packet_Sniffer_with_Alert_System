@@ -1,0 +1,7 @@
+scapy
+matplotlib
+tk
+pystray
+pillow
+sqlite3  # Note: part of Python standard library, no need to install separately
+python-dotenv
